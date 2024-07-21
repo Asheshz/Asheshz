@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/a8af8a8e0e2f5ef5a5a1a10d08dc9ce1daf2d929cc72dc84ce32f059b789d9b7/68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966" alt="MasterHead" width="1000"/>
+<img src="https://camo.githubusercontent.com/a8af8a8e0e2f5ef5a5a1a10d08dc9ce1daf2d929cc72dc84ce32f059b789d9b7/68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966" alt="MasterHead" height="350" width="1000"/>
 
 <h1 align="center">Hi 👋, I'm Ashesh Karmakar</h1>
 <h3 align="center">Passionate coder with a knack for solving complex problems.</h3>
